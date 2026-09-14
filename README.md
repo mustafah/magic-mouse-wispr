@@ -1,4 +1,4 @@
-# wispr-tap
+# Magic Mouse Wispr
 
 A tiny macOS helper that turns a **double three-finger tap** on your Magic Mouse (or trackpad) into a gesture that toggles [Wispr Flow](https://wisprflow.ai)'s free, hands-free dictation mode.
 
@@ -23,8 +23,8 @@ No Accessibility or Input Monitoring permission is needed — `wispr-tap` only r
 ## Install
 
 ```sh
-git clone https://github.com/YOUR_USER/wispr-tap.git
-cd wispr-tap
+git clone https://github.com/mustafah/magic-mouse-wispr.git
+cd magic-mouse-wispr
 chmod +x install.sh
 ./install.sh
 ```
